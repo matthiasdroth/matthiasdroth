@@ -19,7 +19,9 @@ Check my [certifications]() and let's stay in touch!
 ---
 ![](https://komarev.com/ghpvc/?username=matthiasdroth)
 
-
+<!---
+Tech stack (svg icons): AWS, Python, HuggingFace, PyTorch, W&B, TensorFlow, SVG, and Angular
+--->
 
 <!---
 matthiasdroth/matthiasdroth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
