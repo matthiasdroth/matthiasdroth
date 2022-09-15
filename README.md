@@ -13,9 +13,7 @@ I am currently mastering
 - AWS Solutions Architect Associate, and
 - Weights and Biases.
 
-Check my [certifications]()!
-
-Let's stay in touch!
+Check my [certifications]() and let's stay in touch!
 
 <a href="https://www.linkedin.com/in/matthias-droth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a><a href="mailto:matthias.droth@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter"></a>
 ---
