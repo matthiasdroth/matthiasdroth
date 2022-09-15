@@ -5,7 +5,7 @@
 My [repositories](https://github.com/matthiasdroth?tab=repositories) give an overview of past, current, and planned projects.
 
 I provide
-- natural language processing and
+- natural language processing as well as
 - AWS backend architecting and devops.
 
 I am currently mastering
@@ -15,9 +15,8 @@ I am currently mastering
 
 Check my [certifications]()!
 
-Get in touch:<br>
+Let's stay in touch!<br>
 <a href="mailto:matthias.droth@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter"></a><a href="https://www.linkedin.com/in/matthias-droth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-
 ---
 ![](https://komarev.com/ghpvc/?username=matthiasdroth)
 
