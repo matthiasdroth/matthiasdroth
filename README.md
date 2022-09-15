@@ -7,12 +7,16 @@ My [repositories](https://github.com/matthiasdroth?tab=repositories) give an ove
 I provide
 - natural language processing and
 - AWS backend architecting and devops.
+
 I am currently mastering
 - [HuggingFace Transformers](https://huggingface.co/course/chapter6/1),
 - [AWS Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/), and
 - [Weights and Biases](https://wandb.ai/site/sweeps).
-I'm looking to collaborate on ...
-- How to reach me ...
+
+Check my [certifications]()!
+
+Contacts:
+<a href="mailto:matthias.droth@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter"></a><a href="https://www.linkedin.com/in/matthias-droth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 
 ---
 ![](https://komarev.com/ghpvc/?username=matthiasdroth)
