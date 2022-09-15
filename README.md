@@ -2,7 +2,7 @@
 
 **I like to train Neural Networks for natural language applications (NLP, NLU, and ASR).**
 
-This repository gives an overview of my past, current, and planned projects.
+My [repositories](https://github.com/matthiasdroth?tab=repositories) give an overview of past, current, and planned projects.
 
 - I am interested in
   - natural language processing and
