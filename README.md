@@ -4,7 +4,7 @@
 
 My [repositories](https://github.com/matthiasdroth?tab=repositories) give an overview of past, current, and planned projects.
 
-I provide
+I offer expertise in
 - natural language processing as well as
 - AWS backend architecting and devops.
 
