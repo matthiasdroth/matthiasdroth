@@ -4,13 +4,15 @@
 
 This repository gives an overview of my past, current, and planned projects.
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning
-  - HuggingFace Transformers
-  - AWS Solutions Architect Associate
-  - Weights and Biases
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I am interested in
+  - natural language processing and
+  - AWS backend architecting and devops.
+- I am currently learning
+  - [HuggingFace Transformers](https://huggingface.co/course/chapter6/1),
+  - [AWS Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/), and
+  - [Weights and Biases](https://wandb.ai/site/sweeps).
+- I'm looking to collaborate on ...
+- How to reach me ...
 
 ---
 ![](https://komarev.com/ghpvc/?username=matthiasdroth)
