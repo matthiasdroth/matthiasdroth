@@ -9,9 +9,9 @@ I offer expertise in
 - AWS backend architecting and devops.
 
 I am currently mastering
-- [HuggingFace Transformers](https://huggingface.co/course/chapter6/1),
-- [AWS Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/), and
-- [Weights and Biases](https://wandb.ai/site/sweeps).
+- HuggingFace Transformers,
+- AWS Solutions Architect Associate, and
+- Weights and Biases.
 
 Check my [certifications]()!
 
