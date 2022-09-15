@@ -4,14 +4,14 @@
 
 My [repositories](https://github.com/matthiasdroth?tab=repositories) give an overview of past, current, and planned projects.
 
-- I am interested in
-  - natural language processing and
-  - AWS backend architecting and devops.
-- I am currently learning
-  - [HuggingFace Transformers](https://huggingface.co/course/chapter6/1),
-  - [AWS Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/), and
-  - [Weights and Biases](https://wandb.ai/site/sweeps).
-- I'm looking to collaborate on ...
+I provide
+- natural language processing and
+- AWS backend architecting and devops.
+I am currently mastering
+- [HuggingFace Transformers](https://huggingface.co/course/chapter6/1),
+- [AWS Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/), and
+- [Weights and Biases](https://wandb.ai/site/sweeps).
+I'm looking to collaborate on ...
 - How to reach me ...
 
 ---
