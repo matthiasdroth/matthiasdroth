@@ -5,8 +5,9 @@
 My [repositories](https://github.com/matthiasdroth?tab=repositories) give an overview of past, current, and planned projects.
 
 I offer expertise in
-- natural language processing as well as
-- AWS backend architecting and devops.
+- Natural Language Processing,
+- AWS backend architecting and devops as well as
+- Quantum Computing 😉.
 
 I am currently mastering
 - HuggingFace Transformers,
