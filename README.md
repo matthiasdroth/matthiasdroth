@@ -4,7 +4,7 @@
 
 My [repositories](https://github.com/matthiasdroth?tab=repositories) give an overview of past, current, and planned projects.
 
-I offer expertise in
+I provide expertise in
 - Natural Language Processing,
 - AWS backend architecting and devops as well as
 - Quantum Computing 😉.
