@@ -14,9 +14,9 @@ Currently, I busy myself with
 - Architecting on AWS, and
 - Weights and Biases.
 
-Check my <a href="https://matthiasdroth.github.io/" target="_blank">certifications</a> and stay in touch!
+Check my <a target="_blank" href="https://matthiasdroth.github.io/">certifications</a> and stay in touch!
 
-<a href="https://www.linkedin.com/in/matthias-droth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a><a href="mailto:matthias.droth@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a><!--<a href="https://www.malt.de/profile/matthiasdroth" target="_blank"><img src="https://rb.gy/ry3y6t" alt="malt"></a>-->
+<a target="_blank" href="https://www.linkedin.com/in/matthias-droth/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a><a target="_blank" href="mailto:matthias.droth@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a><!--<a target="_blank" href="https://www.malt.de/profile/matthiasdroth"><img src="https://rb.gy/ry3y6t" alt="malt"></a>-->
 
 ---
 ![](https://komarev.com/ghpvc/?username=matthiasdroth)
