@@ -17,7 +17,7 @@ Currently, I busy myself with
 
 Check my <a target="_blank" href="https://matthiasdroth.github.io/">certifications</a> and stay in touch!
 
-<a target="_blank" href="https://www.linkedin.com/in/matthias-droth/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a><a target="_blank" href="mailto:matthias.droth@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a><a target="_blank" href="https://www.malt.de/profile/matthiasdroth"><img src="https://rb.gy/ry3y6t" alt="malt"></a>
+<a target="_blank" href="https://www.linkedin.com/in/matthias-droth/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a><a target="_blank" href="https://www.malt.de/profile/matthiasdroth"><img src="https://rb.gy/ry3y6t" alt="malt"></a><a target="_blank" href="mailto:matthias.droth@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 
 ---
 ![](https://komarev.com/ghpvc/?username=matthiasdroth)
