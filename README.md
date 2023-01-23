@@ -13,7 +13,7 @@ I provide expertise in
 Currently, I busy myself with
 - HuggingFace Transformers,
 - Architecting on AWS, and
-- Weights and Biases.
+- Weights & Biases.
 
 Check my <a target="_blank" href="https://matthiasdroth.github.io/">certifications</a> and stay in touch!
 
