@@ -8,7 +8,7 @@ My [repositories](https://github.com/matthiasdroth?tab=repositories) give an ove
 I provide expertise in
 - Natural Language Processing,
 - AWS backend architecting and devops as well as
-- Quantum Computing 😉.
+- Quantum Computing.
 
 Currently, I busy myself with
 - HuggingFace Transformers,
